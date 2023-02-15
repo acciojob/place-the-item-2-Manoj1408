@@ -1,7 +1,7 @@
 .holder {
       display: flex;
       justify-content: center;
-      flex-wrap: nowrap;
+      flex-wrap: wrap;
     }
     .holder p {
       width: 100px;
