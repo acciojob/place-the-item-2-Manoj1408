@@ -1,2 +1,20 @@
-
+.holder {
+      display: flex;
+      justify-content: center;
+      flex-wrap: nowrap;
+    }
+    .holder p {
+      width: 100px;
+      height: 100px;
+      font-size: 40px;
+    }
+    .holder .tre {
+      background-color: green;
+    }
+    .holder .on{
+      background-color: red;
+    }
+    .holder .to {
+      background-color: blue;
+    }
 /* Your CSS Code here. */
